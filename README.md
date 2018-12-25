@@ -7,6 +7,7 @@
 Solution: The script receipts.py works to get all the totals from each doc and add them up, printing the final number into the console. 
 
 Limitations: 
+- **Works with python 2.7**
 - Each word doc must be exactly the same in terms of format and positioning. 
 - Right now, the total is calculated. Future iterations will look to incorporate totals of RMT and Acupuncture separately.
 
