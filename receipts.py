@@ -27,7 +27,7 @@ def init():
                     global rmt_sum
                     rmt_sum += int(total_num)
                 else:
-                    print service_type.lower()
+                    print "CAN NOT ACCEPT SERVICE: " + service_type
 
             except:
                 print "error at " + doc
