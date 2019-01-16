@@ -3,7 +3,6 @@ import textract
 
 
 docs = glob("./receipts/*")
-full_text = []
 sum = 0
 acu_sum = 0
 rmt_sum = 0
