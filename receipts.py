@@ -1,7 +1,6 @@
 from glob2 import glob
 import textract
 
-
 docs = glob("./receipts/*")
 sum = 0
 acu_sum = 0
@@ -34,10 +33,8 @@ def init():
         else:
             pass
         
-
     print "TOTAL: " + str(sum)
     print "ACUPUNCTURE TOTAL: " + str(acu_sum)
     print "RMT TOTAL: " + str(rmt_sum)
-
 
 init()
