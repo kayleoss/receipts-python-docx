@@ -9,6 +9,10 @@
 
 Solution: The script receipts.py works to get all the totals from each doc and add them up, printing the final number into the console. 
 
+
+------------------
+
+
 Limitations: 
 - **Works with python 2.7**
 - Each word doc must be exactly the same in terms of format and positioning. 
@@ -18,6 +22,9 @@ Limitations:
 Folder structure (where to put receipts): 
 1) Create a folder called "receipts" in the root directory
 2) Inside "receipts" folder create folders for where you will store your receipt documents to be totaled
+
+
+------------------
  
 
 ### Example folder structure: 
