@@ -1,6 +1,9 @@
 # Receipt Totaler (docx) For Neshama Therapy
 
-> Problem: Neshama Therapy has accumulated thousands of word document RMT and Acupuncture receipts and needs to total them to get income numbers and submit for income tax.
+> Problem: Neshama Therapy has accumulated thousands of word document RMT and Acupuncture receipts and needs to total them to get income numbers and submit for income tax. 
+
+
+> Problem 2: Neshama Therapy needs to categorize each receipt as either RMT or Acupuncture and also get the total income for RMT and Acupuncture separately in addition to the total income.
 
 
 
@@ -9,8 +12,16 @@ Solution: The script receipts.py works to get all the totals from each doc and a
 Limitations: 
 - **Works with python 2.7**
 - Each word doc must be exactly the same in terms of format and positioning. 
-- Right now, the total is calculated. Future iterations will look to incorporate totals of RMT and Acupuncture separately.
+- Categories include 'massage therapy' or 'acupuncture treatment' only
 
+
+Folder structure (where to put receipts): 
+1) Create a folder called "receipts" in the root directory
+2) Inside "receipts" folder create folders for where you will store your receipt documents to be totaled
+ 
+
+### Example folder structure: 
+`receipts/2018/receipt.docx`
 
 
 ------------------
