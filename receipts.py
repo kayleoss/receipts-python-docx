@@ -9,7 +9,7 @@ rmt_sum = 0
 
 def init():
     for doc in docs:
-        if doc != "./receipts\desktop.ini":
+        if "desktop.ini" not in doc:
             try:
                 text = textract.process(doc)
                 d = text.split("Total Amount: ")[1]
