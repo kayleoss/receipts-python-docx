@@ -39,4 +39,4 @@ Folder structure (where to put receipts):
 ------------------
 
 
-To use this script, you must create a folder in the root directory called "receipts" and place all receipt documents inside it before running the script. 
+
