@@ -27,10 +27,10 @@ def init():
                     global rmt_sum
                     rmt_sum += int(total_num)
                 else:
-                    print "\n\nCANNOT PROCESS TREATMENT TYPE: " + service_type
+                    print "\n\nERROR: " + doc.split("\\")[1] + "\nCANNOT PROCESS TREATMENT TYPE: " + service_type
 
             except:
-                print "error at " + doc
+                print "error at " + doc.split("\\")[1]
         else:
             pass
         
