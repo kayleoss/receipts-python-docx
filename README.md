@@ -28,7 +28,7 @@ Folder structure (where to put receipts):
  
 
 ### Example folder structure: 
-`receipts/2018/receipt.docx`
+`receipts/2018/katieliu.docx`
 
 ![example of folder structure image](http://i63.tinypic.com/jzbgq9.png)
 
