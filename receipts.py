@@ -27,14 +27,14 @@ def init():
                     global rmt_sum
                     rmt_sum += int(total_num)
                 else:
-                    print "CAN NOT PROCESS: " + service_type
+                    print "\n\nCANNOT PROCESS TREATMENT TYPE: " + service_type
 
             except:
                 print "error at " + doc
         else:
             pass
         
-    print "TOTAL: " + str(sum)
+    print "\nTOTAL: " + str(sum)
     print "ACUPUNCTURE TOTAL: " + str(acu_sum)
     print "RMT TOTAL: " + str(rmt_sum)
 
