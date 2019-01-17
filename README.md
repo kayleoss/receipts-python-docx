@@ -30,6 +30,9 @@ Folder structure (where to put receipts):
 ### Example folder structure: 
 `receipts/2018/receipt.docx`
 
+### Example command (to run the script):
+`python receipts.py 2018`
+
 
 ------------------
 
