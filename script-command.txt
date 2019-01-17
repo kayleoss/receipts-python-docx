@@ -1,1 +1,1 @@
-cd /c/Users/chenw/Desktop/automation/ && python receipts.py
+cd /c/Users/chenw/Desktop/automation/ && python receipts.py NAME_OF_FOLDER
