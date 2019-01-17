@@ -30,6 +30,8 @@ Folder structure (where to put receipts):
 ### Example folder structure: 
 `receipts/2018/receipt.docx`
 
+![example of folder structure image](http://i63.tinypic.com/jzbgq9.png)
+
 ### Example command (to calculate all receipts inside a folder named '2018'):
 `python receipts.py 2018`
 
