@@ -7,7 +7,7 @@
 
 
 
-Solution: The script receipts.py works to get all the totals from each doc and add them up, printing the final number into the console. 
+Solution: The script receipts.py works to get all the totals from each doc and add them up, printing the final number into the console. as well as separate numbers for RMT and ACU income. 
 
 
 ------------------
