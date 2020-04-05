@@ -15,7 +15,7 @@ Solution: The script receipts.py works to get all the totals from each doc and a
 
 Limitations: 
 - **Works with python 2.7**
-- Each word doc must be exactly the same in terms of format and positioning. 
+- Only works with the document receipts generated from Neshama Therapy's receipt web app 
 - Categories include 'massage therapy' or 'acupuncture treatment' only
 
 
